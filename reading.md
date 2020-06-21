@@ -13,7 +13,9 @@ permalink: /reading/
 Here we go:
 
 
-http://people.brandeis.edu/~teuber/Clifford_ethics.pdf
+[http://people.brandeis.edu/~teuber/Clifford_ethics.pdf]
 
-http://bulletin-archive.kenyon.edu/x4280.html
+[http://bulletin-archive.kenyon.edu/x4280.html]
+
+[http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf]
 
