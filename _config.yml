@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jonas Nordhaug Myhre
+title: Chrome Dome ML
 email: jonas.n.myhre@uit.no
 description: > # this means to ignore newlines until "baseurl:"
-  Machine learning researcher. Currently a "researcher"at UiT the Arctic University of Norway
+  Machine learning researcher at <https://machine-learning.uit.no/>.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
